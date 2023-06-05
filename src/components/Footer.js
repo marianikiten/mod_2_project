@@ -1,5 +1,5 @@
 import React from 'react'
-import {logo} from "../assets";
+import logo from "../assets/logo.jpg";
 
 const Footer = () => {
   return (
@@ -7,7 +7,7 @@ const Footer = () => {
   <div className="max-w-screen-xl mx-auto grid grid-cols-4">
     {}
         <div className="flex flex-col gap-7"> 
-        <img className="w-32" src={logo} alt="logo" /> 
+        <img className="w-32" src={logo} alt="logo.jpg" /> 
         <p className="text-white text-sm tracking-wide">copyrights</p>
         {/* <img className="w-56" src={paymentLogo} alt="paymentLogo" /> */}
         <div className="flex gap-5 text-lg text-gray-400">
