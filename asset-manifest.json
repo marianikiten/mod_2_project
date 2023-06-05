@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marianikiten/mod_2_project.github.io/static/css/main.719049ac.css",
+    "main.js": "/marianikiten/mod_2_project.github.io/static/js/main.9f87916f.js",
+    "static/media/logo.jpg": "/marianikiten/mod_2_project.github.io/static/media/logo.0658e774b6fe53f01129.jpg",
+    "static/media/cart.png": "/marianikiten/mod_2_project.github.io/static/media/cart.8f558bfc9a321cd604f8.png",
+    "index.html": "/marianikiten/mod_2_project.github.io/index.html",
+    "main.719049ac.css.map": "/marianikiten/mod_2_project.github.io/static/css/main.719049ac.css.map",
+    "main.9f87916f.js.map": "/marianikiten/mod_2_project.github.io/static/js/main.9f87916f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.719049ac.css",
+    "static/js/main.9f87916f.js"
+  ]
+}
