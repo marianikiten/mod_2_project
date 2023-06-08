@@ -21,16 +21,16 @@ const Layout=()=>{
   };
    const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/mod_2_project",
       element: <Layout/>,
       children: [
         {
-          path: "/",
+          path: "/mod_2_project",
           element: <Home/>,
           loader:productsData, 
           },
           {
-            path: "/cart",
+            path: "/mod_2_project/cart",
             element: <Cart/>,
           },
       ],
